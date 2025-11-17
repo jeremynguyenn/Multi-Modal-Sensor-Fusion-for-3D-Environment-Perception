@@ -16,18 +16,18 @@
 
 ## Projects
 
-### [1. Lidar Obstcle Detection](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_Lidar_Obstacle_Detection)
+### [1. Lidar Obstcle Detection](https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/tree/main/Sensor_Fusion/SFND_Lidar_Obstacle_Detection)
 * Implemented RANSAC algorithm to separated ground plane from obstacles
 * Euclidean clustering algorithm is used to identify obstacles. KD tree implemented from scratch is used to speed up searching point cloud
 <table><tr>
 <td>
 <figure>
-    <img  src="./images/Lidar_Obstacle0.gif" alt="Drawing" width="450" height="350"/>
+    <img  src="https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/blob/main/Sensor_Fusion/images/Lidar_Obstacle0.gif" alt="Drawing" width="450" height="350"/>
     <p align="center">Lidar Obstcle Detection</p>
 </figure></td>
 
 <td><figure>
-    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" width="450" height="350"/>
+    <img  src="https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/blob/main/Sensor_Fusion/images/Lidar_Obstacle2.gif" alt="Drawing" width="450" height="350"/>
     <p align="center">Tracking a bicyclist riding in front of the car</p>
 </figure>
   </td>  
@@ -35,7 +35,7 @@
 </tr></table>
 <figure>
     <kbd>
-    <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 710px;"/>
+    <img  src="https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/blob/main/Sensor_Fusion/images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 710px;"/>
    </kbd>        
     <p align="center">Tracking a bicyclist riding in front of the car</p>
 </figure>
@@ -44,25 +44,25 @@
 
 
 
-### [2. 2D Feature Tracking](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
+### [2. 2D Feature Tracking](https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/tree/main/Sensor_Fusion/SFND_2D_Feature_Tracking)
 Various combination of keypoint detectors, descriptors and matching schemes are explored. 
 <figure>
     <kbd>
-    <img  src="./images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
+    <img  src="https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/blob/main/Sensor_Fusion/images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>    
     <p align="center">2D_Features</p>
 </figure>
 
 ---
 
-### [3. 3D Object Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
+### [3. 3D Object Tracking and TTC calculation](https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/tree/main/Sensor_Fusion/SFND_3D_Object_Tracking)
 * Various combination of keypoint detectors, descriptors and matching schemes are explored. 
 * Object detection using the pre-trained YOLO deep-learning framework
 * Methods to track objects by matching keypoints and bounding boxes across successive images
 * Associating regions in a camera image with lidar points in 3D space
 <figure>
     <kbd>
-    <img  src="./images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
+    <img  src="https://github.com/jeremynguyenn/Multi-Modal-Sensor-Fusion-for-3D-Environment-Perception/blob/main/Sensor_Fusion/images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>    
     <p align="center">TTC Calculation</p>
 </figure>    
