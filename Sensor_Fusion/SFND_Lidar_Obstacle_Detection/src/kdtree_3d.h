@@ -1,4 +1,4 @@
-/* \author Aaron Brown */
+/* \author Nguyen Nhan */
 // Quiz on implementing kd tree
 
 #include "render/render.h"
