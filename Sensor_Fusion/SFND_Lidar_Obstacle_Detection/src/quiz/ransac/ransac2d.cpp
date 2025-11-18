@@ -1,4 +1,4 @@
-/* \author Aaron Brown */
+/* \author Nguyen Nhan */
 // Quiz on implementing simple RANSAC line fitting
 
 #include "../../render/render.h"
